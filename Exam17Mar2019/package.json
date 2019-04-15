@@ -1,5 +1,5 @@
 {
-  "name": "exam19dec2018",
+  "name": "exam17mar2019",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,11 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/jquery": "^3.3.29",
-    "chai": "^4.2.0",
-    "mocha": "^6.0.2"
-  },
-  "devDependencies": {
     "jquery": "^3.4.0"
   }
 }
